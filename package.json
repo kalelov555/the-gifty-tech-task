@@ -10,8 +10,21 @@
     "test": "jest"
   },
   "dependencies": {
+    "@ant-design/icons-react-native": "^2.3.2",
+    "@ant-design/react-native": "^5.1.1",
+    "@apollo/client": "^3.9.9",
+    "@react-native-community/segmented-control": "^2.2.2",
+    "@react-native-community/slider": "^4.5.0",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "antd-mobile-rn": "^2.3.3",
+    "babel-plugin-import": "^1.13.8",
+    "graphql": "^16.8.1",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-asset": "^2.1.1",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.30.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

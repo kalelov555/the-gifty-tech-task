@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/navigator/Navigator.tsx",
+      "sha1": "9147f0367a01e72ca4cd791729e2cda7972b6b4a"
+    },
+    {
+      "path": "src/screens/ContentScreen.tsx",
+      "sha1": "a1935f7496d2700e931571e3bc5c72173156c0d4"
+    },
+    {
+      "path": "src/screens/HomeScreen.tsx",
+      "sha1": "9ba062fd3fc995423327937e668983ea40d79137"
+    }
+  ]
+}
